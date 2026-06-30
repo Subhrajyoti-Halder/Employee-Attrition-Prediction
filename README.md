@@ -1,6 +1,5 @@
 # Employee-Attrition-Prediction
 
---
 
 
 ### 📌 Project Overview
@@ -61,16 +60,16 @@ Mention:
 ```
 Flowchart:
              Dataset
-								│
-       Missing Value Check
-			          │
-     Drop Irrelevant Columns
-			          │
-    Encode Categorical Variables
-			          │
-		   Scale Numeric Features
                 │
-		    Train-Test Split
+       Missing Value Check
+                │
+     Drop Irrelevant Columns
+                │
+    Encode Categorical Variables
+                │
+      Scale Numeric Features
+                │
+         Train-Test Split
 ```
 #### Exploratory Data Analysis
 
